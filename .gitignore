@@ -1,4 +1,16 @@
+# Environment variables
 .env
+
+# Virtual environments
 .venv/
-assets/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Memory storage (optional)
 memory/
+
+# node modules
+node_modules/
