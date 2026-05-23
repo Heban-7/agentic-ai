@@ -1,0 +1,16 @@
+- generic [active] [ref=e1]:
+  - heading "You might have been detected and blocked as a crawler bot!" [level=2] [ref=e2]
+  - heading [level=2]
+  - heading "News Corp Australia uses software that manages crawler bot traffic on our websites. If you receive this message and are not a crawler bot (and are just a reader or subscriber), please try these steps first:" [level=3] [ref=e3]
+  - list [ref=e4]:
+    - listitem [ref=e5]: Temporarily disable any AdBlockers / pop-up blockers / script blockers you have enabled
+    - listitem [ref=e6]: Add this site in to the allowed list for any AdBlockers / pop-up blockers / script blockers you have enabled
+    - listitem [ref=e7]:
+      - text: Ensure your browser supports JavaScript (this can be done via accessing
+      - link "https://www.whatismybrowser.com/detect/is-javascript-enabled" [ref=e8] [cursor=pointer]:
+        - /url: https://www.whatismybrowser.com/detect/is-javascript-enabled
+      - text: in your browser)
+    - listitem [ref=e9]: Ensure you are using the latest version of your web browser
+  - text: If you still need to be unlocked as a reader, subscriber or crawler bot, please e-mail us at accessissues@news.com.au and provide the IP address and reference number shown here along with why you require access.
+  - text: "Your IP address is: 102.218.51.232 | Your reference number is: 0.c5f21502.1779570514.bfe3d61a"
+  - text: News Corp Australia.
